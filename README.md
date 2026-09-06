@@ -2,7 +2,7 @@
 
 Mines is a popular casino game built around a simple grid of hidden tiles, gems, and mines. Players select tiles while trying to reveal gems and avoid hidden mines. The longer a player continues without hitting a mine, the higher the potential multiplier can become.
 
-What is Mines, and how can **[Mines Predictor](https://Minespredict.com)** help you analyze your gameplay? Let’s figure it all out.
+What is Mines, and how can **[Mines Predictor](https://github.com/minespredictor)** help you analyze your gameplay? Let’s figure it all out.
 
 ## ⚡️ The Specifics of Playing Mines
 
